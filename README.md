@@ -27,10 +27,20 @@ After we figure out the problems,we turn into the next stage. WE will use buttom
 
 `` digitalRead(pinMode)
 ``
+
 and 
 
 `` digitalWrite(data)
 ``
+
+
+For example
+``if (digitalRead(u) == HIGH) {
+    Serial.write('u');
+  }
+  
+  ``
+  This is when one of the button is pressed. The receiver arduino will receive the signal and the speed of motor will be add automatically. 
 
 Before we try to use potentiometer use change the speed, however we found the data transimitting is not static. So we finally decide to use button to change the speed. 
 
@@ -42,6 +52,7 @@ We also plan to add more functions for our drone.
 
 ## Author
 Jingyu Liu
+2018/3/14
 
 
 
