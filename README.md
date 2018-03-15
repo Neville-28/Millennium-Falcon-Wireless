@@ -25,11 +25,12 @@ When we first to test whether the device can send data. The test goes well. Howe
 
 After we figure out the problems,we turn into the next stage. WE will use buttom to control the speed. What I will do is to send the data read from the program and send to another arduino. 
 
-* digitalRead(pinMode)
-
+`` digitalRead(pinMode)
+``
 and 
 
-* digitalWrite(data)
+`` digitalWrite(data)
+``
 
 Before we try to use potentiometer use change the speed, however we found the data transimitting is not static. So we finally decide to use button to change the speed. 
 
