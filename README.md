@@ -37,7 +37,7 @@ and
 For example
 
 
-`` if (digitalRead(u) == HIGH) {
+``if (digitalRead(u) == HIGH) {
     Serial.write('u');
   }
   
