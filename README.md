@@ -38,9 +38,10 @@ For example
 
 
 `` if(digitalRead(u) == HIGH) {
-    
-     Serial.write('u');
-  
+``   
+`` Serial.write('u');
+``
+``
   }
   ``
   
