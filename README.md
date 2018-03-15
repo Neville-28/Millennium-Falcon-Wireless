@@ -37,11 +37,13 @@ and
 For example
 
 
-``if (digitalRead(u) == HIGH) {
+`` if (digitalRead(u) == HIGH) {
     Serial.write('u');
   }
+  ``
   
-``
+  
+  
   This is when one of the button is pressed. The receiver arduino will receive the signal and the speed of motor will be add automatically. 
 
 Before we try to use potentiometer use change the speed, however we found the data transimitting is not static. So we finally decide to use button to change the speed. 
