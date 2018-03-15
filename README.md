@@ -60,6 +60,7 @@ We also plan to add more functions for our drone.
 Overall we spend a lot of time dealing with the wires and models. 
 
 The 3-D printer took us a lot of time.
+
 Overall, we finish most of our goal.
 
 ## Author
