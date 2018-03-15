@@ -31,6 +31,10 @@ and
 
 *digitalWrite(data)
 
+Before we try to use potentiometer use change the speed, however we found the data transimitting is not static. So we finally decide to use button to change the speed. 
+
+The power supply we use for the motor is Tenergy 11.1V 1200mAh. Unfortunately, when we try to use the power to demo the motors. We connect the wires reversely/ The power supply is destroyed. So, for the midterm demo, we can only demo part of the project. 
+
 
 
 
