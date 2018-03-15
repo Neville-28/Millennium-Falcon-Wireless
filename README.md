@@ -20,7 +20,7 @@ For this remote system we should prepare :
 First I plug in the Xbee modules into the wireless shield. Thus the device can be a receiver or a sender.
 Be sure that module's pointy end is lined up with the edge of the board. Otherwise the device will not work.
 
-## Progress
+## Processing
 When we first to test whether the device can send data. The test goes well. However, when we try to send sample data to another arduino. We wil always receive some strange symbols. 
 
 After we figure out the problems,we turn into the next stage. WE will use buttom to control the speed. What I will do is to send the data read from the program and send to another arduino. 
