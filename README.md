@@ -56,6 +56,11 @@ In the future we plan to use the proper battery foe the final and try to test th
 
 We also plan to add more functions for our drone.
 
+## Conclusion
+Overall we spend a lot of time dealing with the wires and models. 
+
+The 3-D printer took us a lot of time. Overall, we finish most of our goal.
+
 ## Author
 Jingyu Liu
 2018/3/14
